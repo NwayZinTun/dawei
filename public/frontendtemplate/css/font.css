@@ -1,0 +1,16 @@
+@font-face{
+	font-family: brilFatface-Regular;
+	src: url('fonts/Abril_Fatface/AbrilFatface-Regular.ttf');
+}
+@font-face{
+	font-family: Lobster-Regular;
+	src: url('fonts/Lobster/Lobster-Regular.ttf');
+}
+@font-face{
+	font-family: RobotoSlab-VariableFont_wght;
+	src: url('fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+}
+@font-face{
+	font-family: DancingScript-VariableFont_wght;
+	src: url('fonts/Dancing_Script,Lobster/DancingScript-VariableFont_wght.ttf');
+}
